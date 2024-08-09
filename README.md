@@ -9,7 +9,7 @@ This is a fully-featured e-commerce mobile application built using React Native 
 - **Product Listing**: Browse through a collection of products, view product details, and check prices.
 - **Cart Management**: Add items to the cart, update quantities, and remove items.
 - **Checkout Process**: Complete the purchase with a streamlined checkout process, including payment details.
-- **Authentication**: User registration and login functionality (implementable with various providers).
+- **Authentication**: User registration and login functionality implementable with Firebase.
 - **State Management**: State is managed using React Context API to ensure smooth data flow across components.
 
 ## Screens
